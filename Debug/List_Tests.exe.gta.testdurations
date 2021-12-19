@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\C++ Projects\Dynamic_Array_v2\Debug\List_Tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="List.Constructor" Duration="1" />
+    <TestDuration Test="List." Duration="1" />
+    <TestDuration Test="List.Init" Duration="1" />
+    <TestDuration Test="List.Insert" Duration="1" />
+    <TestDuration Test="List.InsertString" Duration="1" />
+    <TestDuration Test="List.Remove" Duration="1" />
+    <TestDuration Test="List.Capacity" Duration="1" />
+    <TestDuration Test="List.Size" Duration="1" />
+    <TestDuration Test="List.InsertInt" Duration="1" />
+    <TestDuration Test="List.Iterator" Duration="1" />
+    <TestDuration Test="List.ReverseIterator" Duration="1" />
+    <TestDuration Test="List.SetIterator" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

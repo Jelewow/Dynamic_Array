@@ -1,0 +1,13 @@
+﻿  test.cpp
+D:\C++ Projects\Dynamic_Array_v2\List.h(160,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Projects\Dynamic_Array_v2\List.h(155): message : во время компиляции функции-члена класс шаблон "void List<std::string>::remove(int)"
+D:\C++ Projects\List_Tests\test.cpp(59): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<std::string>::remove(int)"
+D:\C++ Projects\List_Tests\test.cpp(37): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<std::string>"
+D:\C++ Projects\Dynamic_Array_v2\List.h(168,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Projects\Dynamic_Array_v2\List.h(37,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Projects\Dynamic_Array_v2\List.h(36): message : во время компиляции функции-члена класс шаблон "void List<std::string>::Erase(void)"
+D:\C++ Projects\Dynamic_Array_v2\List.h(98): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<std::string>::Erase(void)"
+D:\C++ Projects\Dynamic_Array_v2\List.h(22,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Projects\Dynamic_Array_v2\List.h(18): message : во время компиляции функции-члена класс шаблон "void List<std::string>::Reset(void)"
+D:\C++ Projects\Dynamic_Array_v2\List.h(123): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<std::string>::Reset(void)"
+  List_Tests.vcxproj -> D:\C++ Projects\Dynamic_Array_v2\Debug\List_Tests.exe
